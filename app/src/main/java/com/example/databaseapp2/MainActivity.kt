@@ -18,6 +18,5 @@ class MainActivity : AppCompatActivity() {
         db.insertData("Users", "Ali", 25)
         db.getData("Users")
 
-
     }
 }
